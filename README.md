@@ -76,7 +76,7 @@ Provide real-time transfer visibility within the app:
 
 ---
 
-## 🛠 Technologies Used
+## 🛠 TechStack
 - Python  
 - Pandas, NumPy  
 - Jupyter Notebooks  
